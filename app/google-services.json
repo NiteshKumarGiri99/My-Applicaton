@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336687509629",
+    "firebase_url": "https://vehicle-recognition-4b51c.firebaseio.com",
+    "project_id": "vehicle-recognition-4b51c",
+    "storage_bucket": "vehicle-recognition-4b51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336687509629:android:97689f5f4e8412e8748114",
+        "android_client_info": {
+          "package_name": "com.example.vehichlerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336687509629-dormvhh0bp9if5v9leivc6n95tnnkiij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vehichlerecognition",
+            "certificate_hash": "d08dc871b80be21fe8cd8665da6461dc008996eb"
+          }
+        },
+        {
+          "client_id": "336687509629-m7ehcvau1ikoq27lrcbb0qktdb5obsln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBebQ-n7wsRtFiiL79-Xf8FZcK_wPhSpNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336687509629-m7ehcvau1ikoq27lrcbb0qktdb5obsln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

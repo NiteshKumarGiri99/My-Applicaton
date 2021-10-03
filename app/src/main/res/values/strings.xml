@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VehichleRecognition</string>
+    <string name="ChannelName">MyAppNotification</string>
+    <string name="chnannelDescription">its my notification</string>
+</resources>
